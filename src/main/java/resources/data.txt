@@ -1,0 +1,4 @@
+Hi this is a data file.
+The format of the file is .txt.
+Thank you!!!
+Have a nice day.....
